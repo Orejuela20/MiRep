@@ -3,7 +3,7 @@ console.log("Proyecto cargado correctamente 🚀");
 
 // Función para el botón
 function mostrarMensaje() {
-    alert("¡Hola! Este es tu proyecto en JavaScript 🎉");
+    alert("¡Hola! Este es mi  proyecto en JavaScript 🎉");
 }
 
 // Cambiar texto dinámicamente
